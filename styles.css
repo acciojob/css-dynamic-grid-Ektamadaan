@@ -15,5 +15,7 @@
 	display : grid ;
 	grid-template-columns : repeat(9, 1fr) ;
 	gap : 10px ;
+	display : flex ;
+	flex-wrap : wrap ;
 	
 }
